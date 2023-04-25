@@ -1,0 +1,1 @@
+SELECT fieldname, value FROM moz_formhistory; 
